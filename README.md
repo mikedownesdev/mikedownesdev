@@ -2,6 +2,12 @@
 <img align='right' src="https://media4.giphy.com/media/FDxSsNpc6klYgchR7s/giphy.gif" width="250" />
 I’m a Developer with a breadth of problem-solving experiences on the web. Right now I’m working mainly with React.js(https://reactjs.org/) & the [Shopify Development Platform](https://shopify.dev/), but in the past I’ve worked extensively with data, automation, and scripting. 
 
+### 💬 Wanna chat?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+
 <br>
 
 ### Currently
@@ -19,6 +25,7 @@ I’m a Developer with a breadth of problem-solving experiences on the web. Righ
 
 ### Next Up
 
+<img align="left" alt="Typescript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Svelte" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-ight:10px;" />
