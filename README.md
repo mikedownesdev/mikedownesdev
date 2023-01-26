@@ -1,6 +1,7 @@
 ### Hey, I'm Mike 👋
 <img align='right' src="https://media4.giphy.com/media/FDxSsNpc6klYgchR7s/giphy.gif" width="250" />
-I’m a Developer with a breadth of problem-solving experiences on the web. Right now I’m working mainly with React.js(https://reactjs.org/) & the [Shopify Development Platform](https://shopify.dev/), but in the past I’ve worked extensively with data, automation, and scripting. 
+
+I’m a Developer with a breadth of problem-solving experiences on the web. Right now I’m working mainly with [React.js](https://reactjs.org/) & the [Shopify Development Platform](https://shopify.dev/), but in the past I’ve worked extensively with data, automation, and scripting. 
 
 ### 💬 Wanna chat?
 
