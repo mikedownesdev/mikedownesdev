@@ -1,43 +1,42 @@
 ### Hey, I'm Mike 👋
 <img align='right' src="https://media4.giphy.com/media/FDxSsNpc6klYgchR7s/giphy.gif" width="250" />
 
-I’m a Developer with a breadth of problem-solving experiences on the web. Right now I’m working mainly with [React.js](https://reactjs.org/) & the [Shopify Development Platform](https://shopify.dev/), but in the past I’ve worked extensively with data, automation, and scripting. 
+I'm a Software Developer designing solution through application, data, and automation engineering. I spend most of time in the Javascript ecosystem, but I also have extensive experience with Python & SQL. Some of my more unique experiences involve expertise with the [Google Apps Script Platform](https://developers.google.com/apps-script) and the [Shopify Development Platform](https://shopify.dev/)
 
-### 💬 Wanna chat?
+🌐 Check out my website: https://mikedownes.dev
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+💬 Schedule time to meet: https://mikedownes.dev/calendly
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-<br>
-
-### Currently
-
-<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+### Lately
+<div style="display: flex; flex-direction: column"><!--COL-->
+  
+<div style="display: flex; flex-direction: row">
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+</div>
 
-<br>
-<br>
-
-### Next Up
-
+<div style="display: flex; flex-direction: row">
+<img align="left" alt="Node.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Next.js" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Astro" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Typescript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Svelte" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
-<img align="left" alt="Tailwind" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="MongoDB" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-ight:10px;" />
-<img align="left" alt="Sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Gatsby" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
+</div>
+
+<div style="display: flex; flex-direction: row">
+<img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Prisma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+</div>
 
-<br>
-<br>
+<div style="display: flex; flex-direction: row">
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+</div>
 
----
+</div><!--END COL-->
 
 <!--
 **mikedownesdev/mikedownesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
