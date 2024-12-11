@@ -3,8 +3,6 @@
 
 I'm a Software Developer designing solution through application, data, and automation engineering. I spend most of time in the Javascript ecosystem, but I also have extensive experience with Python & SQL. Some of my more unique experiences involve expertise with the [Google Apps Script Platform](https://developers.google.com/apps-script) and the [Shopify Development Platform](https://shopify.dev/)
 
-This was added by Claude
-
 🌐 Check out my website: https://mikedownes.dev
 
 💬 Schedule time to meet: https://mikedownes.dev/calendly
